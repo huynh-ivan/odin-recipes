@@ -19,6 +19,9 @@ h4 {
     color: seagreen;
 }
 
+.container {
+    padding: 0px 24px;
+}
 .banner-image {
     display: block;
     width: 100%;
