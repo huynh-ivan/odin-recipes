@@ -9,6 +9,10 @@ h1 {
     font-size: 32px;
 }
 
+h3 {
+    color: mediumseagreen;
+}
+
 a {
     color: maroon;
 }
