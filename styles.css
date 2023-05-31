@@ -6,13 +6,34 @@ body {
 }
 
 h1 {
-    font-size: 32px;
+    color: darkslategray;
+    font-size: 48px;
+    text-align: center;
 }
 
 h3 {
-    color: mediumseagreen;
+    color: black;
+}
+
+h4 {
+    color: mediumaquamarine;
 }
 
 a {
     color: maroon;
+}
+
+.center {
+    text-align:center;
+    color: darkblue;
+}
+
+.container {
+    padding: 0px 24px;
+}
+
+.banner-image {
+    display: block;
+    width: 100%;
+    height: fit-content;
 }
